@@ -3,4 +3,4 @@
 I'm a fresh B.Sc. graduate in Electrical Engineering (Communication branch) from the University of Tehran. My primary research interests lie in wireless communication, information theory, signal processing, and the applications of deep learning in these fields.
 
 ## Languages and Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=anaconda,c,latex,matlab,py,pytorch,tensorflow,vscode,visualstudio)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=anaconda,c,latex,matlab,py,pytorch,tensorflow,vscode,visualstudio,huggingface,jupyter,git,numpy,pandas,scikitlearn)
