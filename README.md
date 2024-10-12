@@ -1,4 +1,4 @@
-# About me
+## About me
 
 I'm a fresh B.Sc. graduate in Electrical Engineering (Communication branch) from the University of Tehran. My primary research interests lie in wireless communication, information theory, signal processing, and the applications of deep learning in these fields.
 
