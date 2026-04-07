@@ -1,5 +1,5 @@
 ## :raising_hand_woman: About me
- I'm a Ph.D.-track M.Sc. student in Electrical Engineering at Institut Polytechnique de Paris,                                                                                                                                                enrolled in the M2 MICAS program (Machine Learning, Communications & Security).
+ I'm a Ph.D.-track student in Electrical Engineering at Institut Polytechnique de Paris,                                                                                                                                                enrolled in the M2 MICAS program (Machine Learning, Communications & Security).
 
 I hold a B.Sc. in Electrical Engineering (Communication branch) from the University of Tehran.   
 
